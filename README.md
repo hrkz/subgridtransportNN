@@ -2,7 +2,7 @@
 
 This repository contains code for the paper [Embedding physical knowledge into neural networks for sub-grid scale modeling in filtered turbulence](arxiv:?) (2020).
 
-<img src="https://raw.githubusercontent.com/hrkz/SubgridTransportNN/master/data/fig/subgrid_turbulence.png" width="500">
+<img src="https://raw.githubusercontent.com/hrkz/SubgridTransportNN/master/data/fig/subgrid_turbulence.png?raw=true" width="500">
 
 ## Dataset
 
