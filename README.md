@@ -1,12 +1,12 @@
 # Subgrid Transport Neural Network
 
-This repository contains code for the paper [Embedding physical knowledge into neural networks for sub-grid scale modeling in filtered turbulence](arxiv:?) (2020).
+This repository contains code for the paper [Physical invariance in neural networks for subgrid-scale scalar flux modeling](https://arxiv.org/abs/2010.04663) (2020).
 
 <img src="data/fig/subgrid_turbulence.png?raw=true" width="500">
 
 ## Dataset
 
-The dataset is available [link] and should be extracted in ``data/`` by default. It contains DNS data filtered at different resolutions, even if this paper only deal with a filter size equal to 8.
+The dataset is available [here](https://zenodo.org/record/4067946) and should be extracted in ``data/`` by default. It contains DNS data filtered at different resolutions, even if this paper only deal with a filter size equal to 8.
 
 ## Usage
 
