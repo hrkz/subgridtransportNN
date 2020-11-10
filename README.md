@@ -17,5 +17,10 @@ The source of the SGTNN model can be found otherwise in ``src/``.
 
 If you find this code useful in your research, consider citing with
 ```
-@article{}
+@article{frezat2020physical,
+  title={Physical invariance in neural networks for subgrid-scale scalar flux modeling},
+  author={Frezat, Hugo and Balarac, Guillaume and Sommer, Julien Le and Fablet, Ronan and Lguensat, Redouane},
+  journal={arXiv preprint arXiv:2010.04663},
+  year={2020}
+}
 ```
